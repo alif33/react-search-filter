@@ -1,4 +1,4 @@
-# vasttrafik-api-proj
+# react-search-filter
 
 This is a simple react web app based on traffic incidents from Västtrafik traffik information.
 
