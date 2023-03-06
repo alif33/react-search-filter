@@ -1,0 +1,7 @@
+POST https://api.vasttrafik.se/token?grant_type=client_credentials
+Authorization: Basic QUNqVjFvWEhOM3NrblUzY3RTT3ltMHdtMzBzYTpmZm1mbVBmTU5URUQ3YXlRaEplZkp4TDd2Xzhh
+
+###
+
+GET https://api.vasttrafik.se/ts/v1/traffic-situations 
+Authorization: Bearer e3e2eda3-666c-383b-a9d1-b51150bd82a7
